@@ -1,0 +1,15 @@
+[package]
+name = "regiorust"
+version = "0.1.0"
+edition = "2021"
+description = "Solve regionalization problem with MDDs"
+
+[dependencies]
+ddo = { git = "https://github.com/xgillard/ddo" }
+fixedbitset = "0.4.2"
+fixedbitset-utils = "0.2.1"
+fxhash = "0.2.1"
+clap   = { version = "4.2.4",  features = ["derive"] }
+nom    = "7.1.3"
+thiserror = "1.0.40"
+displaythis = "1.0.23"
