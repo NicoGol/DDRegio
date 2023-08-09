@@ -1,0 +1,10 @@
+/mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/target/release/deps/linux_raw_sys-42f0e96211b78bbe.rmeta: /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/lib.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/errno.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/general.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/ioctl.rs
+
+/mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/target/release/deps/liblinux_raw_sys-42f0e96211b78bbe.rlib: /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/lib.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/errno.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/general.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/ioctl.rs
+
+/mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/target/release/deps/linux_raw_sys-42f0e96211b78bbe.d: /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/lib.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/errno.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/general.rs /home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/ioctl.rs
+
+/home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/lib.rs:
+/home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/errno.rs:
+/home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/general.rs:
+/home/ngolenvaux/.cargo/registry/src/github.com-1ecc6299db9ec823/linux-raw-sys-0.3.3/src/x86_64/ioctl.rs:

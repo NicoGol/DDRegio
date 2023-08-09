@@ -1,0 +1,1 @@
+/mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/target/release/regiorust: /mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/src/main.rs /mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/src/regionalization.rs /mnt/c/Users/ngolenvaux/Documents/Doctorat/Regionalization/demo_regio/src/regiostate.rs
