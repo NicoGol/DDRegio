@@ -1,3 +1,18 @@
+# Module Python
+Pour partitionner un ensemble de zones en k points il faut utiliser la fonction `partitioning` présent dans le fichier `regiotool.py`.
+Un exemple est montré sur le script python dans le fichier `Demo.ipynb`, utilisant le dataset présent dans le dossier `example`.
+Je réécris ici les quelques lignes de code :
+```
+zones = pd.read_pickle('example/ecodemo_NUTS1.pkl')
+attributes = ['density', 'gdp_inhabitant', 'median_age', 'rate_migration']
+k=5
+result = partitioning(k, zones, attributes)
+print(result.global_heterogeneity)
+print(result.regions)
+```
+
+
+
 # Regiorust
 
 Pour compiler le truc, il suffit de le faire avec `cargo build --release`.
